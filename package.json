@@ -1,6 +1,6 @@
 {
   "name": "can-run-tests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool for testing can-* repos against canjs",
   "scripts": {
     "publish": "git push origin && git push origin --tags",
